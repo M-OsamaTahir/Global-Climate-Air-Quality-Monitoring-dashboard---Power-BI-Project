@@ -2,8 +2,6 @@
 
 > An interactive Power BI dashboard tracking global temperature, air pollution, ozone levels, and particulate matter across regions and cities from 2024 to 2026.
 
-![Dashboard Preview](weather_sales_v2.png)
-
 ---
 
 ## 🔍 Overview
